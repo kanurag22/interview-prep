@@ -1,14 +1,21 @@
 
 Create a lock mutex and just write it syntax
+
 what is binary semaphore and mutex difference between them
+
 what is priority in mutex 
+
 what is context switching 
+
 what is fork
+
 what is multithreading 
+
 what is multiprocessing 
 
 
 create a doubly linked list and reverse it 
+
 impletment sizeof function in c
 
 write the outout of the following programme
