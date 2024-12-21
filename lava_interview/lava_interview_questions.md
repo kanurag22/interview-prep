@@ -21,8 +21,9 @@ impletment sizeof function in c
 write the outout of the following programme
 
 ====================================================
-imp
-    int func()
+
+imp int func()
+    
     {
 
         int a;
@@ -50,6 +51,8 @@ Output:
 sizeof(a) == sizeof(a + b) evaluates to 1 (true) because both sizes are equal.
 
 ======================================================
+
+    
     struct node
         {
             int a ;
@@ -57,7 +60,10 @@ sizeof(a) == sizeof(a + b) evaluates to 1 (true) because both sizes are equal.
         }node;
         sizeof(node);
 
+
 =======================================================
+
+    
     int main()
     {
         const char *func();
@@ -72,8 +78,12 @@ sizeof(a) == sizeof(a + b) evaluates to 1 (true) because both sizes are equal.
         };
 
 =======================================================
+
+    
     int fun()
     {
         i = 16;
         return ((((i << i) >= i) << i) >> i) <= i);
     }
+
+
