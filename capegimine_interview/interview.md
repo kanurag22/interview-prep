@@ -1,8 +1,10 @@
 
 Majorly from the work History
+
 Level 1
 
-c 
+c
+ 
     1. what is the differnec between static and global variable?
     2. if i use static a varibale in a file header.h and include this file in a.c and b.c will it give any error if not why not?
     3. delete a node in the linked list?
